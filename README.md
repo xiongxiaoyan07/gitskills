@@ -1,3 +1,3 @@
 # gitskills
 
-Using GIT create a new branch is quick & simple.
+Using GIT create a new branch is quick and simple.
